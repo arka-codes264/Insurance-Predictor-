@@ -4,7 +4,7 @@ This project demonstrates **Exploratory Data Analysis (EDA)**, **Data Cleaning**
 It highlights how raw data can be transformed into meaningful features that improve the performance of machine learning models.
 
 ---
-[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://heart-disease-prediction-999.streamlit.app)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)]([https://heart-disease-prediction-999.streamlit.app](https://insurance-predictor101.streamlit.app/))
 
 ## 📌 Project Overview
 - Performed **EDA** with visualizations to uncover insights.  
@@ -35,4 +35,5 @@ It highlights how raw data can be transformed into meaningful features that impr
 ---
 
 ## 📂 Repository Structure
+
 
